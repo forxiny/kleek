@@ -1,4 +1,9 @@
 def main():
+    """
+    Main function.
+    :return:
+    """
+
     pass
 
 
